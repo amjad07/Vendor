@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.475" height="38" viewBox="0 0 45.475 38">
+  <g id="NavBar-Checkout-Selected" transform="translate(0 0.001)">
+    <path id="Path_69" data-name="Path 69" d="M42.257,25.169H47.32l-1.961-1.125.248.444-.229-.542L48.686,41.39l.937,4.943c1.459-.4-.428-2.554.044-.133l.327,1.675a2.29,2.29,0,0,0,2.19,1.667H75.266a2.271,2.271,0,1,0,0-4.542H52.184c.73.556-3.316-2.649-2.561,1.333.222,1.167.485,2.883,1.585,2.526,1.249-.4,3.032-2.48,2.794-3.736L50.433,26.3l-.5-2.617a5.407,5.407,0,0,0-.421-1.512c-.072-.142-.156-.28-.234-.419a2.275,2.275,0,0,0-1.961-1.125H42.257a2.271,2.271,0,0,0,0,4.542Z" transform="translate(-39.984 -20.627)" fill="#313131"/>
+    <circle id="Ellipse_59" data-name="Ellipse 59" cx="3.168" cy="3.168" r="3.168" transform="translate(11.32 30.858)" fill="#43c0ef" stroke="#313131" stroke-miterlimit="10" stroke-width="1.61"/>
+    <circle id="Ellipse_60" data-name="Ellipse 60" cx="3.168" cy="3.168" r="3.168" transform="translate(29.703 30.858)" fill="#43c0ef" stroke="#313131" stroke-miterlimit="10" stroke-width="1.61"/>
+    <path id="Path_70" data-name="Path 70" d="M80.537,39.56H58.6l-2.11-10.424H85.248a.447.447,0,0,1,.447.447l-4.711,9.53A.447.447,0,0,1,80.537,39.56Z" transform="translate(-41.83 -21.579)" fill="#43c0ef" stroke="#313131" stroke-miterlimit="10" stroke-width="3.221"/>
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="2.07" cy="2.07" r="2.07" transform="translate(20.279 10.674)" fill="#313131"/>
+    <circle id="Ellipse_62" data-name="Ellipse 62" cx="2.07" cy="2.07" r="2.07" transform="translate(26.089 10.674)" fill="#313131"/>
+    <circle id="Ellipse_63" data-name="Ellipse 63" cx="2.07" cy="2.07" r="2.07" transform="translate(31.899 10.674)" fill="#313131"/>
+  </g>
+</svg>
